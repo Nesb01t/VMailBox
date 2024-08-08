@@ -1,0 +1,9 @@
+name: VMailBox
+version: '1.0'
+main: cn.nescraft.vMailBox.VMailBox
+api-version: '1.21'
+commands:
+  mail:
+    description: void0 mail system
+    usage: /mail <send> <player>
+    permission: vmailbox.mail
